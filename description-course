@@ -1,0 +1,40 @@
+<div class="jumbotron">
+    <h1 class="display-4">&nbsp; O que você vai aprender</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-8">
+                <div class="col-md-12">
+                    <p class="lead">
+                        Há muitos componentes no programa de segurança da informação de uma organização. Se você é novo em segurança cibernética ou está interessado em começar, pode ser difícil identificar e entender todas as facetas da proteção dos ativos de informações de uma organização.</p>
+                    <p class="lead">Neste curso, Introdução à Segurança da Informação, você aprenderá sobre os programas de segurança da informação usados pelas organizações. <br></p>
+                    <p class="lead">Primeiro, você aprenderá sobre os princípios fundamentais da segurança da informação, como confidencialidade, integridade, governança, gerenciamento de riscos e conformidade. <br></p>
+                    <p class="lead">Em seguida, você explorará os ativos organizacionais e como eles são protegidos por meio do uso de controles de segurança. Em seguida, você verá como a auditoria, o monitoramento e o teste são usados ​​para revisar e avaliar a eficácia desses controles de segurança. <br></p>
+                    <p class="lead">Por fim, você descobrirá como as organizações gerenciam e se preparam para incidentes de segurança, interrupções e desastres e como gerenciam as operações diárias de um programa de segurança da informação. <br></p>
+                    <p class="lead">Ao concluir este curso, você terá o conhecimento e a compreensão do panorama geral da segurança da informação.
+                    </p>
+                    <p>
+                    </p>
+                    <hr>
+                    <a class="btn btn-primary" href="#">Começar curso »</a>
+                    <p></p>
+                </div>
+            </div>
+            <div class="col-xs-4">
+                <div class="card" style="width: 18rem; border: solid 1px #f9f9f9;">
+                    <img src="https://sicoob.noava.com.br/draftfile.php/26/user/draft/963110994/undraw_Security_re_a2rk.png" alt="Segurança da informação. Illustração de um rapaz em pé ao que parece ser a captura de tela de um aplicativo. e um cadeado. " class="img-fluid atto_image_button_text-bottom" width="auto" height="203">
+                    <div class="card-body">
+                        <h5 class="card-title">Pré-requisitos<br></h5>
+                        <p class="card-text">Não há pré-requisitos para a realização deste curso.</p>
+                        <p class="card-text"><strong>Idade mínima</strong><br>16 anos<br></p>
+                        <p class="card-text"><strong>Prazo</strong><br>Você terá 60 dias para concluir este curso<br></p>
+                        <i class="fas fa-star" style="color: #ffc62c;"></i>
+                        <i class="fas fa-star" style="color: #ffc62c;"></i>
+                        <i class="fas fa-star" style="color: #ffc62c;"></i>
+                        <i class="fas fa-star" style="color: #ffc62c;"></i>
+                        <i class="fas fa-star-half" style="color: #ffc62c;"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
