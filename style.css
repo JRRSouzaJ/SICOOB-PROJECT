@@ -35,3 +35,16 @@
 .nav-pills-custom .nav-link.active::before {
     opacity: 1;
 }
+
+.line-quote {
+      content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 7.6rem;
+  height: .4rem;
+  margin: auto;
+  background: #313537;
+  background-color: #4BAA31 !important;
+}
